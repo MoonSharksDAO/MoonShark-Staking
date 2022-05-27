@@ -1,0 +1,14 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+.undodir
+.mnkhodVimWorkspace.vim
+
+#Hardhat files
+cache
+artifacts
+
+.DS_Store
