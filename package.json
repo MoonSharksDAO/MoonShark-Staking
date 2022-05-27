@@ -10,6 +10,7 @@
     "hardhat": "^2.9.2"
   },
   "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
     "@primitivefi/hardhat-dodoc": "^0.2.3",
     "dotenv": "^16.0.0",
     "hardhat-abi-exporter": "^2.8.0",
